@@ -1,0 +1,14 @@
+// Preferences – ~lojojaPrefs
+// ================================================================
+{
+  "theme": "Merge.sublime-theme",
+	"font_face": "Source Code Pro",
+  "font_size": 11.5,
+  "tab_size": 4,
+	"translate_tabs_to_spaces": false,
+  //"diff_style": null,
+  //"auto_diff_style_min_chars": null,
+  "editor_path": "/usr/local/bin/subl",
+  //"editor_argument_format": null,
+	"git_binary": "/usr/local/bin/git"
+}
