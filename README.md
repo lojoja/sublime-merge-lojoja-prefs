@@ -1,7 +1,7 @@
 ~lojojaPrefs
 ============
 
-*Version 1.0.0*
+*Version 1.0.1*
 
 This package manages custom settings and preferences for [Sublime Merge](https://www.sublimemerge.com).
 
