@@ -8,6 +8,9 @@
   "translate_tabs_to_spaces": false,
   //"diff_style": null,
   //"auto_diff_style_min_chars": null,
+  "word_wrap": "auto",
+  "expand_merge_commits_by_default": false,
+  "time_format": "System",
   "editor_path": "/usr/local/bin/subl",
   //"editor_argument_format": null,
   "git_binary": "/usr/local/bin/git"
